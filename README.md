@@ -1,5 +1,5 @@
 # BackendDesktop
 
 ## Integrantes:
--> Lucas Rodriguez Fennema
--> Nicola Alvarez
+# -> Lucas Rodriguez Fennema
+# -> Nicola Alvarez
